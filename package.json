@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/isyiwang/tablefinder/issues"
   },
-  "homepage": "https://github.com/isyiwang/tablefinder#readme"
+  "homepage": "https://github.com/isyiwang/tablefinder#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
 }
